@@ -82,16 +82,7 @@ Multi-agent code review system. Agents split the review work, talk to each other
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsiranjeevi&theme=tokyonight&hide_border=true" />
-
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsiranjeevi&theme=tokyonight&hide_border=true" /> </div>
 
 ---
 
