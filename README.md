@@ -84,12 +84,12 @@ Multi-agent code review system. Agents split the review work, talk to each other
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=https://www.github.com/aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://www.github.com/aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://www.github.com/aswinsiranjeevi&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsiranjeevi&theme=tokyonight&hide_border=true" />
 
 </div>
 
