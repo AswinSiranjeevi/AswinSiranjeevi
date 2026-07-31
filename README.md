@@ -82,12 +82,7 @@ Multi-agent code review system. Agents split the review work, talk to each other
 
 ### 📊 GitHub Stats
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsiranjeevi&theme=tokyonight&hide_border=true" /> </div>
-
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=aswinsiranjeevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aswinsiranjeevi&layout=compact&theme=tokyonight&hide_border=true"/> <br/> <img src="https://streak-stats.demolab.com?user=aswinsiranjeevi&theme=tokyonight&hide_border=true" /> </div>
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/> </div>
