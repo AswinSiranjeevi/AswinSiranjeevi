@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Aswin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20MS%20IT%20%40%20ASU&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Now+building+RAG+pipelines+and+multi-agent+systems;M.S.+Information+Technology%2C+ASU;Graduating+May+2026+%E2%80%94+open+to+full-time+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Now+building+RAG+pipelines+and+multi-agent+systems;M.S.+Information+Technology%2C+ASU+May+2026+%E2%80%94+open+to+full-time+roles" alt="Typing SVG" />
 
 <br/>
 
